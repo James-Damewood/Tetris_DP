@@ -13,3 +13,5 @@ Because this algorithm is exponential in w, the width of the board must be kept 
 This implementation is based off the algorithm introduced in this lecture: https://www.youtube.com/watch?v=tp4_UXaVyx8
 
 See Tetris.gif for an example game.
+
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
