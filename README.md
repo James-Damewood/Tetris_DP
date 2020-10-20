@@ -14,4 +14,4 @@ This implementation is based off the algorithm introduced in this lecture: https
 
 See Tetris.gif for an example game.
 
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
+![me](https://github.com/James-Damewood/Tetris_DP/blob/main/tetris.gif)
